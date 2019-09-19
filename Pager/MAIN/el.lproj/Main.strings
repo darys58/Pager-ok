@@ -1,0 +1,303 @@
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "0Of-1x-W3O"; */
+"0Of-1x-W3O.text" = "waga";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "0QI-py-uMj"; */
+"0QI-py-uMj.title" = "Item";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "0wH-JS-nzm"; */
+"0wH-JS-nzm.text" = "czas";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "1OM-eo-YQs"; */
+"1OM-eo-YQs.text" = "Cena";
+
+/* Class = "UILabel"; text = "dziecko8"; ObjectID = "2GB-o8-Sgz"; */
+"2GB-o8-Sgz.text" = "dziecko8";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "2Ht-JP-1ia"; */
+"2Ht-JP-1ia.title" = "Item";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "2hp-gg-XPn"; */
+"2hp-gg-XPn.text" = "waga";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "2qa-lj-V51"; */
+"2qa-lj-V51.text" = "PLN";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "2y7-Mg-tL3"; */
+"2y7-Mg-tL3.text" = "Cena";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "35u-q4-RV6"; */
+"35u-q4-RV6.text" = "Cena";
+
+/* Class = "UILabel"; text = "dziecko9"; ObjectID = "3zh-qI-Fdr"; */
+"3zh-qI-Fdr.text" = "dziecko9";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "4pA-80-7mK"; */
+"4pA-80-7mK.text" = "kcal";
+
+/* Class = "UIButton"; normalTitle = "Anuluj"; ObjectID = "5TY-KM-Di3"; */
+"5TY-KM-Di3.normalTitle" = "Anuluj";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "5rb-7U-2ta"; */
+"5rb-7U-2ta.text" = "czas";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6N9-6X-VFF"; */
+"6N9-6X-VFF.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7Jb-Xe-1ZH"; */
+"7Jb-Xe-1ZH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "7ga-nq-3sX"; */
+"7ga-nq-3sX.text" = "kcal";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "7qL-LL-o1D"; */
+"7qL-LL-o1D.text" = "Cena";
+
+/* Class = "UILabel"; text = "cena"; ObjectID = "8x4-EL-BYm"; */
+"8x4-EL-BYm.text" = "cena";
+
+/* Class = "UILabel"; text = "autor"; ObjectID = "95t-iD-jqd"; */
+"95t-iD-jqd.text" = "autor";
+
+/* Class = "UILabel"; text = "wybierz"; ObjectID = "9EV-kf-IBt"; */
+"9EV-kf-IBt.text" = "wybierz";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9eu-Ll-onW"; */
+"9eu-Ll-onW.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9lz-eo-sDB"; */
+"9lz-eo-sDB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "AGh-rL-USD"; */
+"AGh-rL-USD.text" = "kcal";
+
+/* Class = "UINavigationItem"; title = "Język"; ObjectID = "Af6-55-20w"; */
+"Af6-55-20w.title" = "Język";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "AfF-iS-XFw"; */
+"AfF-iS-XFw.text" = "czas";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "Azk-r8-dfm"; */
+"Azk-r8-dfm.text" = "Cena";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "BhN-rj-r4c"; */
+"BhN-rj-r4c.text" = "waga";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "Bja-OI-Kdz"; */
+"Bja-OI-Kdz.text" = "Cena";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "CYC-Ah-6rb"; */
+"CYC-Ah-6rb.text" = "kcal";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "DIG-bQ-lyQ"; */
+"DIG-bQ-lyQ.title" = "Item";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "DVK-6C-qBm"; */
+"DVK-6C-qBm.text" = "czas";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "ESD-ey-DMy"; */
+"ESD-ey-DMy.text" = "kcal";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "Eic-k9-9gy"; */
+"Eic-k9-9gy.text" = "PLN";
+
+/* Class = "UINavigationItem"; title = "Konin"; ObjectID = "FN1-R7-vdU"; */
+"FN1-R7-vdU.title" = "Konin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GoW-c1-RVT"; */
+"GoW-c1-RVT.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "NL"; ObjectID = "HeO-co-VfG"; */
+"HeO-co-VfG.normalTitle" = "NL";
+
+/* Class = "UILabel"; text = "Brak kodu QR"; ObjectID = "Hx1-fE-FZ8"; */
+"Hx1-fE-FZ8.text" = "Brak kodu QR";
+
+/* Class = "UILabel"; text = "tytul"; ObjectID = "J1m-2z-P1f"; */
+"J1m-2z-P1f.text" = "tytul";
+
+/* Class = "UILabel"; text = "dziecko1"; ObjectID = "J8e-oC-REe"; */
+"J8e-oC-REe.text" = "dziecko1";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "Jbo-DD-MuN"; */
+"Jbo-DD-MuN.text" = "waga";
+
+/* Class = "UIButton"; normalTitle = "Anuluj"; ObjectID = "K6R-is-BEA"; */
+"K6R-is-BEA.normalTitle" = "Anuluj";
+
+/* Class = "UIBarButtonItem"; title = "Zatwierdź"; ObjectID = "Kvj-ak-hDE"; */
+"Kvj-ak-hDE.title" = "Zatwierdź";
+
+/* Class = "UILabel"; text = "dziecko5"; ObjectID = "MoV-Ft-H9X"; */
+"MoV-Ft-H9X.text" = "dziecko5";
+
+/* Class = "UINavigationItem"; title = "Filtr"; ObjectID = "MpG-Aa-0Kc"; */
+"MpG-Aa-0Kc.title" = "Filtr";
+
+/* Class = "UITextView"; text = "Lorem ipsum  "; ObjectID = "Nvh-fr-orM"; */
+"Nvh-fr-orM.text" = "Lorem ipsum  ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O29-Fk-hsB"; */
+"O29-Fk-hsB.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "otwarte"; ObjectID = "OR7-nv-dd2"; */
+"OR7-nv-dd2.text" = "otwarte";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "OyA-Ot-buE"; */
+"OyA-Ot-buE.text" = "czas";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "PQ9-5C-IoF"; */
+"PQ9-5C-IoF.text" = "waga";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PbM-Mj-0QR"; */
+"PbM-Mj-0QR.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Skanowanie kodu QR"; ObjectID = "QMn-Pf-o1E"; */
+"QMn-Pf-o1E.title" = "Skanowanie kodu QR";
+
+/* Class = "UILabel"; text = "dziecko4"; ObjectID = "QPl-nQ-Qst"; */
+"QPl-nQ-Qst.text" = "dziecko4";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "QyP-X5-jSY"; */
+"QyP-X5-jSY.text" = "PLN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qzl-zH-qO7"; */
+"Qzl-zH-qO7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "dziecko6"; ObjectID = "REb-Ae-d0l"; */
+"REb-Ae-d0l.text" = "dziecko6";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "ROA-48-6nw"; */
+"ROA-48-6nw.text" = "Cena";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "RrP-Wb-HZM"; */
+"RrP-Wb-HZM.text" = "waga";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T1e-DS-GBQ"; */
+"T1e-DS-GBQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TeI-OD-fPR"; */
+"TeI-OD-fPR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "U0O-Nk-Soq"; */
+"U0O-Nk-Soq.text" = "czas";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WXQ-6Y-vEv"; */
+"WXQ-6Y-vEv.title" = "Item";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "Wa9-8p-zd4"; */
+"Wa9-8p-zd4.text" = "waga";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "X6y-r5-0p2"; */
+"X6y-r5-0p2.text" = "kcal";
+
+/* Class = "UIBarButtonItem"; title = "Zatwierdź"; ObjectID = "Xbl-wj-M86"; */
+"Xbl-wj-M86.title" = "Zatwierdź";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XjA-Iy-Ba3"; */
+"XjA-Iy-Ba3.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YOa-r2-7jy"; */
+"YOa-r2-7jy.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Lokalizacja"; ObjectID = "Ya8-wG-p8s"; */
+"Ya8-wG-p8s.title" = "Lokalizacja";
+
+/* Class = "UILabel"; text = "dziecko3"; ObjectID = "beg-mr-xq2"; */
+"beg-mr-xq2.text" = "dziecko3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bff-Vl-uLZ"; */
+"bff-Vl-uLZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "bwf-KA-2gW"; */
+"bwf-KA-2gW.text" = "waga";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c6m-2d-Y8E"; */
+"c6m-2d-Y8E.text" = "Label";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "ddy-bw-7aR"; */
+"ddy-bw-7aR.text" = "PLN";
+
+/* Class = "UIButton"; normalTitle = "Anuluj"; ObjectID = "eRK-bD-zd3"; */
+"eRK-bD-zd3.normalTitle" = "Anuluj";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "fCl-4e-x0c"; */
+"fCl-4e-x0c.text" = "PLN";
+
+/* Class = "UILabel"; text = "nazwa"; ObjectID = "g69-DG-Wzz"; */
+"g69-DG-Wzz.text" = "nazwa";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ggZ-yg-y3A"; */
+"ggZ-yg-y3A.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "sred"; ObjectID = "gvY-77-MG5"; */
+"gvY-77-MG5.text" = "sred";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "hRS-4h-hh6"; */
+"hRS-4h-hh6.text" = "kcal";
+
+/* Class = "UILabel"; text = "skanuj"; ObjectID = "hdc-9P-QWK"; */
+"hdc-9P-QWK.text" = "skanuj";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iJV-h8-sjB"; */
+"iJV-h8-sjB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "dziecko7"; ObjectID = "k4E-Iy-xdj"; */
+"k4E-Iy-xdj.text" = "dziecko7";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "keD-Bo-7ff"; */
+"keD-Bo-7ff.text" = "PLN";
+
+/* Class = "UITextView"; text = "opinia"; ObjectID = "ksN-Uq-U8D"; */
+"ksN-Uq-U8D.text" = "opinia";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "mIE-ex-aia"; */
+"mIE-ex-aia.text" = "Cena";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "nL8-wd-LDK"; */
+"nL8-wd-LDK.text" = "PLN";
+
+/* Class = "UILabel"; text = "dodano"; ObjectID = "oZW-El-Txh"; */
+"oZW-El-Txh.text" = "dodano";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "oge-C7-QOm"; */
+"oge-C7-QOm.text" = "PLN";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "ph1-ce-jiW"; */
+"ph1-ce-jiW.text" = "PLN";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "qi2-ip-kFp"; */
+"qi2-ip-kFp.text" = "kcal";
+
+/* Class = "UILabel"; text = "adres"; ObjectID = "sbZ-90-WMj"; */
+"sbZ-90-WMj.text" = "adres";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "tNl-ei-0g2"; */
+"tNl-ei-0g2.text" = "czas";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "tbU-Xv-wZ2"; */
+"tbU-Xv-wZ2.text" = "czas";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "tjv-RZ-fCn"; */
+"tjv-RZ-fCn.text" = "waga";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "tug-9P-K22"; */
+"tug-9P-K22.title" = "Item";
+
+/* Class = "UILabel"; text = "dziecko2"; ObjectID = "vBG-Tu-IG4"; */
+"vBG-Tu-IG4.text" = "dziecko2";
+
+/* Class = "UIBarButtonItem"; title = "Filtruj"; ObjectID = "vH1-Z0-llD"; */
+"vH1-Z0-llD.title" = "Filtruj";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "vye-7a-IrY"; */
+"vye-7a-IrY.text" = "Cena";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "wCz-q4-NmH"; */
+"wCz-q4-NmH.text" = "czas";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "xl7-w2-2FX"; */
+"xl7-w2-2FX.text" = "PLN";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "y2g-qO-Tq9"; */
+"y2g-qO-Tq9.text" = "kcal";

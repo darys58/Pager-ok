@@ -1,0 +1,110 @@
+
+
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "2y7-Mg-tL3"; */
+"2y7-Mg-tL3.text" = "Cena";
+
+/* Class = "UIButton"; normalTitle = "Anuluj"; ObjectID = "5TY-KM-Di3"; */
+"5TY-KM-Di3.normalTitle" = "Anuluj";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "6ks-lR-wdG"; */
+"6ks-lR-wdG.text" = "kcal";
+
+/* Class = "UILabel"; text = "cena"; ObjectID = "8x4-EL-BYm"; */
+"8x4-EL-BYm.text" = "cena";
+
+/* Class = "UILabel"; text = "autor"; ObjectID = "95t-iD-jqd"; */
+"95t-iD-jqd.text" = "autor";
+
+/* Class = "UILabel"; text = "kcal"; ObjectID = "AGh-rL-USD"; */
+"AGh-rL-USD.text" = "kcal";
+
+/* Class = "UILabel"; text = "opis"; ObjectID = "AVJ-Ao-IDD"; */
+"AVJ-Ao-IDD.text" = "opis";
+
+/* Class = "UILabel"; text = "Cena"; ObjectID = "Aoz-jd-0Dw"; */
+"Aoz-jd-0Dw.text" = "Cena";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "DIG-bQ-lyQ"; */
+"DIG-bQ-lyQ.title" = "Item";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "DVK-6C-qBm"; */
+"DVK-6C-qBm.text" = "czas";
+
+/* Class = "UINavigationItem"; title = "Konin"; ObjectID = "FN1-R7-vdU"; */
+"FN1-R7-vdU.title" = "Konin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GoW-c1-RVT"; */
+"GoW-c1-RVT.text" = "Label";
+
+/* Class = "UILabel"; text = "tytul"; ObjectID = "J1m-2z-P1f"; */
+"J1m-2z-P1f.text" = "tytul";
+
+/* Class = "UILabel"; text = "dziecko1"; ObjectID = "J8e-oC-REe"; */
+"J8e-oC-REe.text" = "dziecko1";
+
+/* Class = "UIButton"; normalTitle = "Zatwierdź lokalizację"; ObjectID = "JGv-BQ-TMR"; */
+"JGv-BQ-TMR.normalTitle" = "Zatwierdź lokalizację";
+
+/* Class = "UIButton"; normalTitle = "Anuluj"; ObjectID = "K6R-is-BEA"; */
+"K6R-is-BEA.normalTitle" = "Anuluj";
+
+/* Class = "UILabel"; text = "czas"; ObjectID = "Kl8-vY-aGa"; */
+"Kl8-vY-aGa.text" = "czas";
+
+/* Class = "UITextView"; text = "otwarte"; ObjectID = "OR7-nv-dd2"; */
+"OR7-nv-dd2.text" = "otwarte";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "PQ9-5C-IoF"; */
+"PQ9-5C-IoF.text" = "waga";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WXQ-6Y-vEv"; */
+"WXQ-6Y-vEv.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XjA-Iy-Ba3"; */
+"XjA-Iy-Ba3.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Lokalizacja"; ObjectID = "Ya8-wG-p8s"; */
+"Ya8-wG-p8s.title" = "Lokalizacja";
+
+/* Class = "UILabel"; text = "dziecko3"; ObjectID = "beg-mr-xq2"; */
+"beg-mr-xq2.text" = "dziecko3";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c6m-2d-Y8E"; */
+"c6m-2d-Y8E.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Anuluj"; ObjectID = "eRK-bD-zd3"; */
+"eRK-bD-zd3.normalTitle" = "Anuluj";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "fCl-4e-x0c"; */
+"fCl-4e-x0c.text" = "PLN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fSE-R1-L3R"; */
+"fSE-R1-L3R.text" = "Label";
+
+/* Class = "UILabel"; text = "nazwa"; ObjectID = "g69-DG-Wzz"; */
+"g69-DG-Wzz.text" = "nazwa";
+
+/* Class = "UILabel"; text = "sred"; ObjectID = "gvY-77-MG5"; */
+"gvY-77-MG5.text" = "sred";
+
+/* Class = "UITextView"; text = "opinia"; ObjectID = "ksN-Uq-U8D"; */
+"ksN-Uq-U8D.text" = "opinia";
+
+/* Class = "UILabel"; text = "dodano"; ObjectID = "oZW-El-Txh"; */
+"oZW-El-Txh.text" = "dodano";
+
+/* Class = "UILabel"; text = "waga"; ObjectID = "p6f-U3-0dT"; */
+"p6f-U3-0dT.text" = "waga";
+
+/* Class = "UILabel"; text = "PLN"; ObjectID = "ph1-ce-jiW"; */
+"ph1-ce-jiW.text" = "PLN";
+
+/* Class = "UILabel"; text = "adres"; ObjectID = "sbZ-90-WMj"; */
+"sbZ-90-WMj.text" = "adres";
+
+/* Class = "UILabel"; text = "dziecko2"; ObjectID = "vBG-Tu-IG4"; */
+"vBG-Tu-IG4.text" = "dziecko2";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "zLj-uc-duk"; */
+"zLj-uc-duk.text" = "title";

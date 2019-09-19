@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="RazemView" customModule="Pager" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="313" height="33"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="cena" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fwp-kg-UYp">
+                    <rect key="frame" x="69" y="8" width="80" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="80" id="rzA-cM-ugy"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="waga" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZHm-ss-Yxz">
+                    <rect key="frame" x="156" y="8" width="60" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="60" id="jc2-td-ABE"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="RAZEM" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sbq-Rp-wQ8">
+                    <rect key="frame" x="10" y="8" width="57" height="17"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="kcal" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BdD-Qg-ifT">
+                    <rect key="frame" x="222" y="8" width="78" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="78" id="QwF-WN-GvR"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="ghL-Mg-VYS" firstAttribute="bottom" secondItem="Fwp-kg-UYp" secondAttribute="bottom" constant="8" id="2tb-R6-s7Q"/>
+                <constraint firstItem="ghL-Mg-VYS" firstAttribute="bottom" secondItem="sbq-Rp-wQ8" secondAttribute="bottom" constant="8" id="6IO-WO-0nv"/>
+                <constraint firstItem="ghL-Mg-VYS" firstAttribute="bottom" secondItem="BdD-Qg-ifT" secondAttribute="bottom" constant="8" id="Ae8-jy-lyO"/>
+                <constraint firstItem="Fwp-kg-UYp" firstAttribute="leading" secondItem="sbq-Rp-wQ8" secondAttribute="trailing" constant="2" id="FER-zE-PBa"/>
+                <constraint firstItem="sbq-Rp-wQ8" firstAttribute="leading" secondItem="ghL-Mg-VYS" secondAttribute="leading" constant="10" id="SAk-xB-mtM"/>
+                <constraint firstItem="ghL-Mg-VYS" firstAttribute="bottom" secondItem="ZHm-ss-Yxz" secondAttribute="bottom" constant="8" id="Z9Z-ii-iXp"/>
+                <constraint firstItem="ghL-Mg-VYS" firstAttribute="trailing" secondItem="BdD-Qg-ifT" secondAttribute="trailing" constant="13" id="mTP-Z2-4U7"/>
+                <constraint firstItem="ZHm-ss-Yxz" firstAttribute="leading" secondItem="Fwp-kg-UYp" secondAttribute="trailing" constant="7" id="rdz-Wh-fnU"/>
+                <constraint firstItem="BdD-Qg-ifT" firstAttribute="leading" secondItem="ZHm-ss-Yxz" secondAttribute="trailing" constant="6" id="z5N-fn-dhm"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="ghL-Mg-VYS"/>
+            <connections>
+                <outlet property="cenaRazem" destination="Fwp-kg-UYp" id="HpA-rv-Dhq"/>
+                <outlet property="kcalRazem" destination="BdD-Qg-ifT" id="uK5-by-W1b"/>
+                <outlet property="razemLabel" destination="sbq-Rp-wQ8" id="Q4N-4N-YD0"/>
+                <outlet property="wagaRazem" destination="ZHm-ss-Yxz" id="5Qv-ug-Boo"/>
+            </connections>
+            <point key="canvasLocation" x="-6.5" y="-133.5"/>
+        </view>
+    </objects>
+</document>

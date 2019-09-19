@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Pager
+
+  Created by darys on 02.02.2018.
+  Copyright © 2018 darys. All rights reserved.
+*/
+
+"L_WYGLAD_NIE" = "看起來不好";
+"L_WYGLAD_KIE" = "不吃人的外觀";
+"L_WYGLAD_POP" = "正確的外觀";
+"L_WYGLAD_APE" = "開胃的樣子";
+"L_WYGLAD_REW" = "轟動的外觀";
+"L_SMAK_TRA" = "可怕的味道";
+"L_SMAK_NIE" = "無限的味道";
+"L_SMAK_NAT" = "好味道";
+"L_SMACZNE" = "口感鮮美";
+"L_SMAKUJE_WYS" = "極好的味道";
+"L_ZAPACH_TRA" = "可怕的氣味";
+"L_BRAK_ZAPACHU" = "沒有氣味";
+"L_ZAPACH_NEU" = "中性氣味";
+"L_PRZYJEMNY_ZAPACH" = "好聞";
+"L_PACHNIE_REW" = "轟動的氣味";
+"L_TEMP_NISKA" = "溫度太低";
+"L_TEMP_WYSOKA" = "溫度很高";
+"L_TEMP_DOBRA" = "相當好的溫度";
+"L_TEMP_ODPOWIEDNIA" = "適當的溫度";
+"L_TEMP_IDEALNA" = "完美的溫度";
+"L_PORCJA_B_MALA" = "很少食物";
+"L_PORCJA_MALA" = "小食物";
+"L_PORCJA_SREDNIA" = "平均數量";
+"L_PORCJA_WLASCIWA" = "選擇語言";
+"L_PORCJA_DUZA" = "這是很多食物！";
+"L_CENA_ZDE" = "價格太高";
+"L_CENA_TRO" = "一點點付出太多";
+"L_CENA_WLA" = "適當的價格";
+"L_TANIO" = "低價";
+"L_BARDZO_TANIO" = "真是低價！";
+"L_OPIS1" = "膳食錯過了一些成分";
+"L_OPIS2" = "膳食不反映描述";
+"L_OPIS3" = "膳食反映了描述";
+"L_OPIS4" = "膳食與描述一致";
+"L_OPIS5" = "膳食與描述完全一致";
+"L_ZDJECIE_1" = "膳食看起來與照片中完全不同";
+"L_ZDJECIE_2" = "膳食在照片中看起來不太像";
+"L_ZDJECIE_3" = "膳食看起來與照片中的相似";
+"L_ZDJECIE_4" = "膳食看起來像在照片中";
+"L_ZDJECIE_5" = "膳食看起來完全像在照片中";
+
+"L_SNIADANIA" = "早餐";
+"L_PRZYSTAWKI" = "首發";
+"L_ZUPY" = "湯";
+"L_SALATKI" = "沙拉";
+"L_DANIA_GLOWNE" = "主修課";
+"L_DLA_DZIECI" = "對於孩子";
+"L_DESERY" = "甜品";
+"L_NAPOJE" = "飲料";
+"L_ALKOHOLE" = "醇";
+"L_WYBIERZ_JEZYK" = "選擇語言";
+"L_DANIE_DOSTEPNE" = "餐廳提供的菜餚";
+"L_ALERGENY" = "過敏原";
+"L_SKLADNIKI_DANIA" = "基本配料菜餚";
+"L_BRAK" = "缺乏";
+"L_SKANUJ" = "掃描您的位置";
+"L_SKANOWANIE_KODU" = "掃描QR碼";
+"L_WIFI_TAK" = "互聯網";
+"L_PARKING_TAK" = "自己停車";
+"L_KLIMA_TAK" = "有空調的酒店";
+"L_KARTA_TAK" = "可能的卡支付";
+"L_OGRODEK_TAK" = "夏天的花園";
+"L_WYNOS_TAK" = "外賣菜";
+"L_STREFA_TAK" = "兒童區";
+"L_NIEPELNO_TAK" = "殘疾人設施";
+"L_UDOGODNIENIA" = "設備";
+"L_BRAK_QR" = "沒有檢測到QR碼";
+"L_TO_NIE_LOKAL" = "這不是地點代碼";
+"L_NIE_MA_LOKALU" = "沒有這樣的餐廳";
+"L_PROFIL" = "輪廓";
+"L_SKLADNIKI" = "配料";
+"L_ZALOGUJ" = "登錄";
+"L_JEZYK" = "語言";
+"L_REGULAMIN" = "條例";
+"L_POLITYKA" = "隱私政策";
+"L_ZATWIERDZ" = "確認";
+"L_CZAS" = "等待的時間";
+"L_ILOSC" = "數量";
+"L_ENERGIA" = "能源";
+"L_CENA" = "價錢";
+"L_OD" = "從";
+"L_DO" = "至";
+"L_LOKALIZACJA" = "位置";
+"L_JEZYK" = "語言";
+"L_FILTRY" = "過濾器";
+"L_ANULUJ" = "取消";
+
+
+
+
+
+
+

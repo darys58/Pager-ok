@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Pager
+
+  Created by darys on 02.02.2018.
+  Copyright © 2018 darys. All rights reserved.
+*/
+
+"L_WYGLAD_NIE" = "Bad look";
+"L_WYGLAD_KIE" = "Uninviting look";
+"L_WYGLAD_POP" = "Proper look";
+"L_WYGLAD_APE" = "Appetizing look";
+"L_WYGLAD_REW" = "Sensational look";
+"L_SMAK_TRA" = "Terrible taste";
+"L_SMAK_NIE" = "Indefinite taste";
+"L_SMAK_NAT" = "Good taste";
+"L_SMACZNE" = "Delicious taste";
+"L_SMAKUJE_WYS" = "Excellent taste";
+"L_ZAPACH_TRA" = "Terrible smell";
+"L_BRAK_ZAPACHU" = "No smell";
+"L_ZAPACH_NEU" = "Neutral smell";
+"L_PRZYJEMNY_ZAPACH" = "Nice smell";
+"L_PACHNIE_REW" = "Sensational smell";
+"L_TEMP_NISKA" = "Temperature is too low";
+"L_TEMP_WYSOKA" = "Temperature is to high";
+"L_TEMP_DOBRA" = "Quite good temperature";
+"L_TEMP_ODPOWIEDNIA" = "Proper temperature";
+"L_TEMP_IDEALNA" = "Perfect temperature";
+"L_PORCJA_B_MALA" = "Very little food";
+"L_PORCJA_MALA" = "Little food";
+"L_PORCJA_SREDNIA" = "Average quantity";
+"L_PORCJA_WLASCIWA" = "Proper quantity";
+"L_PORCJA_DUZA" = "That was a lot of food!";
+"L_CENA_ZDE" = "Price is too high";
+"L_CENA_TRO" = "Little bit too much to pay";
+"L_CENA_WLA" = "Proper price";
+"L_TANIO" = "Low price";
+"L_BARDZO_TANIO" = "Really low price!";
+"L_OPIS1" = "Meal misses some ingredients";
+"L_OPIS2" = "Meal does not reflect the discription";
+"L_OPIS3" = "Meal reflects the discription";
+"L_OPIS4" = "Meal is aligned with the discription";
+"L_OPIS5" = "Meal is perfectly aligned with the discription";
+"L_ZDJECIE_1" = "Meal looks completely different than in the photo";
+"L_ZDJECIE_2" = "Meal does not look exactly like in the photo";
+"L_ZDJECIE_3" = "Meal looks similar as in the photo";
+"L_ZDJECIE_4" = "Meal looks like in the photo";
+"L_ZDJECIE_5" = "Meal looks exactly like in the photo";
+
+"L_SNIADANIA" = "BREAKFASTS";
+"L_PRZYSTAWKI" = "STARTERS";
+"L_ZUPY" = "SOUPS";
+"L_SALATKI" = "SALADS";
+"L_DANIA_GLOWNE" = "MAIN COURSES";
+"L_DLA_DZIECI" = "FOR KIDS";
+"L_DESERY" = "DESSERTS";
+"L_NAPOJE" = "BEVERAGES";
+"L_ALKOHOLE" = "ALCOHOL";
+"L_WYBIERZ_JEZYK" = "Choose language";
+"L_DANIE_DOSTEPNE" = "Dish available in the restaurant";
+"L_ALERGENY" = "Allergens";
+"L_SKLADNIKI_DANIA" = "Basic ingredients dishes";
+"L_BRAK" = "lack";
+"L_SKANUJ" = "Scan your location";
+"L_SKANOWANIE_KODU" = "Scanning the QR code";
+"L_WIFI_TAK" = "Internet access";
+"L_PARKING_TAK" = "Own parking";
+"L_KLIMA_TAK" = "Obiekt klimatyzowany";
+"L_KARTA_TAK" = "Air-conditioned property";
+"L_OGRODEK_TAK" = "Summer garden";
+"L_WYNOS_TAK" = "Takeaway dishes";
+"L_STREFA_TAK" = "Area for children";
+"L_NIEPELNO_TAK" = "Facilities for the disabled";
+"L_UDOGODNIENIA" = "Facilities";
+"L_BRAK_QR" = "No QR code is detected";
+"L_TO_NIE_LOKAL" = "This is not a location code";
+"L_NIE_MA_LOKALU" = "There is no such restaurant";
+"L_PROFIL" = "Profile";
+"L_SKLADNIKI" = "Ingredients";
+"L_ZALOGUJ" = "Log in";
+"L_JEZYK" = "Language";
+"L_REGULAMIN" = "Regulations";
+"L_POLITYKA" = "Privacy policy";
+"L_ZATWIERDZ" = "Confirm";
+"L_CZAS" = "Waiting time";
+"L_ILOSC" = "Quantity";
+"L_ENERGIA" = "Energy";
+"L_CENA" = "Price";
+"L_OD" = "from";
+"L_DO" = "to";
+"L_LOKALIZACJA" = "Location";
+"L_JEZYK" = "Language";
+"L_FILTRY" = "Filters";
+"L_ANULUJ" = "Cancel";
+
+
+
+
+
+
+
