@@ -45,7 +45,7 @@ class FiltrViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         zatwierdzButton.title = "L_ZATWIERDZ".localized()
-        navigationItem.title = "L_FILTRY".localized() + "bla"
+        navigationItem.title = "L_FILTRY".localized()
         
         //== pobranie danych filtrów z tabeli 'memory'
         //mem_filtr1_0 (a:czasmin, b:czasmax, c:wagamin, d:wagamax, e:kcalmin, f:kcalma)
